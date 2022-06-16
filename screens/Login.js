@@ -103,9 +103,9 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         height: '50%',
         width: '80%',
-        borderWidth: 1,
+        borderWidth: 8,
         borderColor: 'white',
-        borderRadius: 10
+        borderRadius: 20
     },
     formTitle: {
         color: 'white',
